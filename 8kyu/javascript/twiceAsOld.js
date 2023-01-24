@@ -9,5 +9,5 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
     
     const dadsAge = (difference - dadYearsOld) 
     return Math.abs(dadsAge)
-  }
+}
   console.log(twiceAsOld(55,30))
